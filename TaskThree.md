@@ -5,5 +5,5 @@ During the daily standup, it was pointed out that the timezone across Nautilus A
 
 Correct the mismatch.
 
-
+## Solution
 ```sudo timedatectl set-timezone "America/Mendoza"```
